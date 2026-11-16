@@ -1,0 +1,8 @@
+{
+  "name": "RouteVerse",
+  "description": "Interactive navigation command centre, graph algorithm visualizer, and strategy game platform exploring Dijkstra's, Prim's, and Kruskal's algorithms.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
